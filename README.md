@@ -47,5 +47,6 @@ The tool manager checks the required environment and NGSpice availability, displ
 The project includes:
 * test_circuit.cir
 * test_circuit2.cir
+
 The testing process checks NGSpice availability, version information, dependency status, circuit selection, and circuit simulation execution.
 
