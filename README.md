@@ -13,6 +13,7 @@ A Python-based prototype for managing external tools and dependencies used with 
 - Reports simulation status and output.
 
 **Project Structure :**
+```text
 eSim-Automated-Tool-manager/
 ├── main.py
 ├── tool_manager.py
