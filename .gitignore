@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.raw
+*.log
+*.tmp
+test_circuit2_ngspice_output.txt
+.vscode/
