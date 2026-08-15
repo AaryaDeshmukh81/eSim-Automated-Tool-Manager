@@ -3,7 +3,7 @@
 
 A Python-based prototype for managing external tools and dependencies used with eSim.
 
-**Feature**s
+**Features :**
 - Checks NGSpice availability.
 - Checks NGSpice version information.
 - Checks required dependencies.
@@ -12,7 +12,7 @@ A Python-based prototype for managing external tools and dependencies used with 
 - Runs the selected circuit using NGSpice.
 - Reports simulation status and output.
 
-**Project Structure**
+**Project Structure :**
 eSim-Automated-Tool-manager/
 ├── main.py
 ├── tool_manager.py
@@ -24,26 +24,29 @@ eSim-Automated-Tool-manager/
 ├── manual_output.txt
 └── .gitignore
 
-**Requirement**s
+**Requirements :**
 * Windows
 * Python 3.x
 * NGSpice
 * Git
 * VS Code or another Python-capable editor
 
-**Installation**
+**Installation :**
+
 Check Python:
 python --version
 Install the required Python dependencies:
 python -m pip install -r requirements.txt
 Install NGSpice and ensure that its executable is accessible to the project.
 
-**Execution**
+**Execution :**
+
 Run the tool manager from the project directory:
 python main.py
 The tool manager checks the required environment and NGSpice availability, displays the available circuit files, and allows the user to select a circuit for simulation.
 
-**Testing**
+**Testing :**
+
 The project includes:
 * test_circuit.cir
 * test_circuit2.cir
