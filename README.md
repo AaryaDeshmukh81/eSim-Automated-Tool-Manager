@@ -1,5 +1,6 @@
 
 **eSim Automated Tool Manager**
+
 A Python-based prototype for managing external tools and dependencies used with eSim.
 
 **Feature**s
@@ -48,7 +49,3 @@ The project includes:
 * test_circuit2.cir
 The testing process checks NGSpice availability, version information, dependency status, circuit selection, and circuit simulation execution.
 
-
-
-After pasting, click **Commit changes**.
-```
